@@ -1,0 +1,59 @@
+Device: /org/freedesktop/UPower/devices/battery_BAT0
+  native-path:          BAT0
+  vendor:               Panasonic
+  model:                DELL 78V9D94
+  serial:               1110
+  power supply:         yes
+  updated:              dom 03 nov 2024 23:43:08 (14 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               fully-charged
+    warning-level:       none
+    energy:              34,7208 Wh
+    energy-empty:        0 Wh
+    energy-full:         34,7208 Wh
+    energy-full-design:  41,44 Wh
+    energy-rate:         0,0148 W
+    voltage:             16,671 V
+    charge-cycles:       N/A
+    percentage:          100%
+    capacity:            83,7857%
+    technology:          lithium-ion
+    icon-name:          'battery-full-charged-symbolic'
+
+Device: /org/freedesktop/UPower/devices/line_power_AC
+  native-path:          AC
+  power supply:         yes
+  updated:              dom 03 nov 2024 21:17:07 (8775 seconds ago)
+  has history:          no
+  has statistics:       no
+  line-power
+    warning-level:       none
+    online:              yes
+    icon-name:          'ac-adapter-symbolic'
+
+Device: /org/freedesktop/UPower/devices/DisplayDevice
+  power supply:         yes
+  updated:              dom 03 nov 2024 21:17:07 (8775 seconds ago)
+  has history:          no
+  has statistics:       no
+  battery
+    present:             yes
+    state:               fully-charged
+    warning-level:       none
+    energy:              34,7208 Wh
+    energy-full:         34,7208 Wh
+    energy-rate:         0,0148 W
+    charge-cycles:       N/A
+    percentage:          100%
+    icon-name:          'battery-full-charged-symbolic'
+
+Daemon:
+  daemon-version:  0.99.17
+  on-battery:      no
+  lid-is-closed:   no
+  lid-is-present:  yes
+  critical-action: HybridSleep

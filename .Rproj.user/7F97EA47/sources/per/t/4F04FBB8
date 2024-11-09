@@ -1,0 +1,26 @@
+{
+    "id": "4F04FBB8",
+    "path": "~/project/lisp/lx1no/matrix/gnu/bin/ii2first.lisp",
+    "project_path": "matrix/gnu/bin/ii2first.lisp",
+    "type": "lisp",
+    "hash": "1382909752",
+    "contents": "",
+    "dirty": false,
+    "created": 1730030610446.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "212,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1728676152,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1728676152,
+    "read_only": false,
+    "read_only_alternatives": []
+}

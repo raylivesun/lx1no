@@ -1,0 +1,1 @@
+cryptswap UUID=da3440c3-831f-4c21-9c14-1896c2a61a6a /dev/urandom swap,plain,offset=1024,cipher=aes-xts-plain64,size=512

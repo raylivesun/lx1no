@@ -1,0 +1,3 @@
+Couldn't start process 'halls unit 27 '
+Usage:
+	winedbg [ [ --gdb ] [ <prog-name> [ <prog-args> ] | <num> | <file.mdmp> | --help ]

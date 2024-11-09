@@ -1,0 +1,20 @@
+;; name project mm0wpm
+;; name program mm
+;; name extension lisp
+;; name describer wpm
+;; name data 0
+;; name unit 0
+
+;; topic reference run'k template logical object's 
+(eval (invoke-restart-interactively (restart (sb-impl::original-exp " 5.5e+1"))))
+;; static template dialogue external
+(invoke-restart-interactively nil)
+(locally "7.8e+1")
+;; external messages topic thunk-pass
+(sb-impl::retry-%coerce-name-to-fun (name-char "@2=#\R"))
+;; template pass to pass reference thunk-pass
+(sb-impl::retry-%coerce-name-to-fun (strictly-fcuntionp (sb-impl::name "#\l")))
+;; source topic reference parse business path
+(swank:inspector-call-nth-action (index "#\."))
+;; static until method to base link
+(sb-int:simple-eval-in-lexenv (restart (sb-kernel:lexenv "@4=#\C")))

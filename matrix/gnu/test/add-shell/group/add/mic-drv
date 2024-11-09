@@ -1,0 +1,14 @@
+Uso: ppdc [opções] arquivo.drv [ ... arquivoN.drv ]
+Opções:
+  -D nome=valor           Define a variável "nome" com "valor".
+  -I dir-include          Adiciona diretório de include ao caminho de pesquisa.
+  -c catálogo.po          Carrega o catálogo de mensagens especificado.
+  -d dir-saída            Especifica o diretório de saída.
+  -l idioma[,idioma,...]  Especifica o(s) idioma(s) de saída (locale).
+  -m                      Usa o valor de ModelName como o nome de arquivo.
+  -t                      Testa PPDs ao invés de criá-los.
+  -v                      Modo detalhado.
+  -z                      Compacta arquivos PPD usando GNU zip.
+  --cr                    Fim de linhas com CR (Mac OS 9).
+  --crlf                  Fim de linhas com CR + LF (Windows).
+  --lf                    End lines with LF (UNIX/Linux/macOS).

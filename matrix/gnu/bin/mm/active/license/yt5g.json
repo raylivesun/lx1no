@@ -1,0 +1,23 @@
+{
+    "path": "/home/admin/project/lisp/lx1no/matrix/gnu/bin/mm/active/license/yt5g.lisp",
+    "encoding": "utf_8",
+    "encoding_aliases": [
+        "u8",
+        "utf",
+        "utf8",
+        "utf8_ucs2",
+        "utf8_ucs4",
+        "cp65001"
+    ],
+    "alternative_encodings": [],
+    "language": "English",
+    "alphabets": [
+        "Basic Latin",
+        "Control character"
+    ],
+    "has_sig_or_bom": false,
+    "chaos": 0.0,
+    "coherence": 86.23,
+    "unicode_path": null,
+    "is_preferred": true
+}

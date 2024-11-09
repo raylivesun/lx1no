@@ -1,0 +1,12 @@
+(enabled:true,notification_frequency:Weekly)
+(enabled:true,notification_frequency:home)
+(enabled:true,notification_frequency:admin)
+(enabled:true,notification_frequency:local)
+(enabled:true,notification_frequency:storage)
+(enabled:true,notification_frequency:chursh)
+(enabled:true,notification_frequency:update)
+(enabled:true,notification_frequency:upgrade)
+(enabled:true,notification_frequency:install)
+
+
+

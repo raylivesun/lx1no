@@ -1,0 +1,6 @@
+NAME          MODEL            FSTYPE FSVER   SIZE FSUSE% MOUNTPOINTS LABEL     UUID
+sda           HS-SSD-C100 120G              111,8G                              
+├─sda1                         ext4   1.0   107,8G    47% /                     1ddaf68b-2b51-413a-a981-5b1068bd8fd6
+└─sda2                         swap   1         4G                              da3440c3-831f-4c21-9c14-1896c2a61a6a
+  └─cryptswap                  swap   1         4G        [SWAP]      cryptswap 0c57b017-c794-4e13-9bf4-11f424012ec1
+zram0                                         3,6G        [SWAP]                
